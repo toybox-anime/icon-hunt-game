@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">IconHunt</string>
+    <string name="title_activity_main">IconHunt</string>
+    <string name="package_name">com.toyboxanime.iconhunt</string>
+    <string name="custom_url_scheme">com.toyboxanime.iconhunt</string>
+</resources>
