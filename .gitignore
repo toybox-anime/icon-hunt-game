@@ -39,3 +39,16 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+# Native / Capacitor / Android
+/android/.idea/
+/android/.gradle/
+/android/**/build/
+/android/gradle-wrapper.jar
+/android/gradlew
+/android/gradlew.bat
+
+# IDE
+/.idea/
+.vscode/
